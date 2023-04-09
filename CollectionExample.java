@@ -18,7 +18,7 @@ public class CollectionExample{
         //java.lang.Iterable<E>
         //collection<--- List  (interface)  <--- ArrayList(class), Vector(class), LinkedList (class)
         //          <--- Queue (interface)  <--- Deque, PriorityQueue (class)  {Deque (interface) <--- LinkedList,ArrayDeque}
-        //          <--- Set   (interface)  <--- HashSet (class), LinkedHashSet(class) {Set(interface) <--- SortedSet(interface) <--- HashSet(interface))}
+        //          <--- Set   (interface)  <--- HashSet (class), LinkedHashSet(class) {Set(interface) <--- SortedSet(interface) <--- HashSet(class))}
         //                                       SortedSet (interface) <--- Navigable (interface) <--- TreeSet (class)
 
         //ArrayList
